@@ -21,17 +21,20 @@ A beautiful and intuitive Flutter weather application that provides real-time we
 ### Steps
 
 1. **Clone the repository**
-
-   git clone https://github.com/Clirim1/Weather-App.git
-   cd Weather-App
-
+   ```bash
+   git clone https://github.com/Clirim1/Weather-App.git 
+   cd weather-app
+   ```
 
 2. **Install dependencies**
+   ```bash
    flutter pub get
-
+   ```
 
 3. **Run the application**
+   ```bash
    flutter run
+   ```
 
 ## How to Use 
 
@@ -62,10 +65,11 @@ A beautiful and intuitive Flutter weather application that provides real-time we
 ## API 
 The app uses **OpenWeatherMap API** with the included API key.
 
-## Supported Platforms 
+## Supported Platforms 📱
 - ✅ Android  
 - ✅ iOS  
 
+---
 
 **Flutter Version**: 3.9.0+  
 **Dart Version**: 3.9.0+  
